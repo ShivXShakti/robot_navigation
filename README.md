@@ -1,6 +1,5 @@
-# robot_navigation
-#export TURTLEBOT3_MODEL=burger
-#roslaunch turtlebot3_gazebo turtlebot3_stage_4.launch
+### robot_navigation
+###roslaunch turtlebot3_gazebo turtlebot3_stage_4.launch
 
 ##### mapping
 $rosrun rviz rviz
